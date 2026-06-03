@@ -168,7 +168,7 @@
 
 | Degree | Institution | Year | Score |
 |:-------|:------------|:----:|:-----:|
-| B.E - ECE (Honours) | Tamil Nadu College of Engineering(Anna University), Coimbatore |2022-2026|CGPA: 8.50|
+| B.E - ECE (Honours) | Tamil Nadu College of Engineering(Anna University), Coimbatore |2022-2026|CGPA:8.50|
 | Higher Secondary Certificate (HSC) | Kongu Matriculation Higher Secondary School, Tiruppur |2021-2022| 92.5% |
 | Secondary School Leaving Certificate (SSLC) | Kongu Matriculation Higher Secondary School, Tiruppur |2019-2020| 78% |
 
