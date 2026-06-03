@@ -168,9 +168,9 @@
 
 | Degree | Institution | Year | Score |
 |:-------|:------------|:----:|:-----:|
-| B.E - ECE (Honours) | Tamil Nadu College of Engineering, (Anna University), Coimbatore | 2022 - 2026 | CGPA : 8.50 |
-| Higher Secondary Certificate (HSC) | Kongu Matriculation Higher Secondary School, Tiruppur | 2010 - 2022 | 92.5% |
-| Secondary School Leaving Certificate (SSLC) | Kongu Matriculation Higher Secondary School, Tiruppur | 2010 - 2022 | 78% |
+| B.E - ECE (Honours) | Tamil Nadu College of Engineering, (Anna University), Coimbatore |2022 - 2026|CGPA:8.50|
+| Higher Secondary Certificate (HSC) | Kongu Matriculation Higher Secondary School, Tiruppur |2021-2022| 92.5% |
+| Secondary School Leaving Certificate (SSLC) | Kongu Matriculation Higher Secondary School, Tiruppur |2019-2020| 78% |
 
 </div>
 
@@ -179,12 +179,12 @@
 ## 📚 Currently Learning
 
 ```
-🔴 FreeRTOS         → Task scheduling, mutexes, semaphores, queues
-🟠 Linux Drivers    → Character devices, kernel modules, device trees
-🟡 PCB Design       → KiCad schematic capture, layout, DRC, Gerber export
-🟢 Wireless Comms   → BLE (nRF52), Zigbee, MQTT over Wi-Fi
-🔵 Edge AI          → TinyML on microcontrollers, Edge Impulse optimization
-🟣 Power Electronics→ MPPT algorithms, gate driver design, isolated converters
+🔴 FreeRTOS          → Task scheduling, Mutexes, Semaphores, Queues
+🟠 Linux Drivers     → Character Devices, kernel modules, Device trees
+🟡 PCB Design        → KiCad schematic capture, layout, DRC, Gerber export
+🟢 Wireless Comms    → BLE, Zigbee, MQTT over Wi-Fi
+🔵 Edge AI           → TinyML on microcontrollers, Edge Impulse optimization
+🟣 Power Electronics → Gate Driver Design, Isolated Converters
 ```
 
 ---
