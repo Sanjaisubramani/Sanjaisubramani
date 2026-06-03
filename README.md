@@ -1,4 +1,4 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SANJAI%20SUBRAMANI&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Bridging%20Hardware%20and%20Software&descAlignY=62&descSize=18&descColor=000000" width="100%"></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SANJAI%20SUBRAMANI&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Embedded%20Firmware%20Engineer&descAlignY=62&descSize=18&descColor=000000" width="100%"></p>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Embedded+Firmware+Engineer+%F0%9F%94%A7;STM32+%7C+ESP32+%7C+Embedded+C+Specialist;15%2B+Real-World+Embedded+Projects;Bridging+Hardware+%26+Software" alt="Typing SVG" />
