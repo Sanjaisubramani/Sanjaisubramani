@@ -165,36 +165,11 @@
 ## 🎓 Education
 
 <div align="center">
-<table>
-<thead>
-<tr>
-<th align="left">Degree</th>
-<th align="left">Institution</th>
-<th align="center">Year</th>
-<th align="center">Score</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>B.E - ECE (Honours)</td>
-<td>Tamil Nadu College of Engineering (Anna University), Coimbatore</td>
-<td align="center" style="white-space:nowrap">2022 - 2026</td>
-<td align="center">CGPA : 8.50</td>
-</tr>
-<tr>
-<td>Higher Secondary Certificate (HSC)</td>
-<td>Kongu Matriculation Higher Secondary School, Tiruppur</td>
-<td align="center" style="white-space:nowrap">2010 - 2022</td>
-<td align="center">92.5%</td>
-</tr>
-<tr>
-<td>Secondary School Leaving Certificate (SSLC)</td>
-<td>Kongu Matriculation Higher Secondary School, Tiruppur</td>
-<td align="center" style="white-space:nowrap">2010 - 2022</td>
-<td align="center">78%</td>
-</tr>
-</tbody>
-</table>
+| Degree | Institution | Year | Score |
+|:-------|:------------|:----:|:-----:|
+| B.E - ECE (Honours) | Tamil Nadu College of Engineering(Anna University), Coimbatore | <nobr>2022-2026</nobr> | CGPA : 8.50 |
+| Higher Secondary Certificate (HSC) | Kongu Matric. Hr. Sec. School, Tiruppur | <nobr>2010-2022</nobr> | 92.5% |
+| Secondary School Leaving Certificate (SSLC) | Kongu Matric. Hr. Sec. School, Tiruppur | <nobr>2010-2022</nobr> | 78% |
 </div>
 
 ---
