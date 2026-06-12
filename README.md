@@ -28,7 +28,7 @@
 #define NAME                Sanjai Subramani
 #define LOCATION            Bengaluru, Karnataka
 #define DEGREE              B.E. Electronics & Communication Engineering
-#define CGPA                8.40 / 10
+#define CGPA                8.50 / 10
 #define COLLEGE             Tamil Nadu College of Engineering, Coimbatore
 #define GRADUATION_YEAR     2026
 ```
@@ -207,7 +207,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SanjaiSubramani-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/SanjaiSubramani)
 [![GitHub](https://img.shields.io/badge/GitHub-Sanjaisubramani-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sanjaisubramani)
-[![Portfolio](https://img.shields.io/badge/Portfolio-SanjaiPortfolio-70a5fd?style=flat-square&logo=firefox&logoColor=white)](https://github.com/Sanjaisubramani)
+[![Portfolio](https://img.shields.io/badge/Portfolio-SanjaiPortfolio-70a5fd?style=flat-square&logo=firefox&logoColor=white)](https://sanjaisubramani.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-sanjaisbrmni%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sanjaisbrmni@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B91%208122177564-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+918122177564)
 
