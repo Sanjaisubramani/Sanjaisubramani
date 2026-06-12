@@ -26,9 +26,9 @@
  */
 
 #define NAME                Sanjai Subramani
-#define LOCATION            Tiruppur, Tamil Nadu
+#define LOCATION            Bengaluru, Karnataka
 #define DEGREE              B.E. Electronics & Communication Engineering
-#define CGPA                8.50 / 10
+#define CGPA                8.40 / 10
 #define COLLEGE             Tamil Nadu College of Engineering, Coimbatore
 #define GRADUATION_YEAR     2026
 ```
