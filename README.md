@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=Sanjaisubramani&color=70a5fd&style=flat-square&label=Profile+Views" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/Sanjaisubramani?style=flat-square&color=70a5fd&label=Followers" alt="Followers"/>
   <img src="https://img.shields.io/badge/Focus-Embedded%20Systems-bf91f3?style=flat-square" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Location-Tiruppur%2C%20India-38bdae?style=flat-square" alt="Location"/>
+  <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-38bdae?style=flat-square" alt="Location"/>
 </div>
 
 ---
