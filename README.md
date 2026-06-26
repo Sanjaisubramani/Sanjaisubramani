@@ -148,15 +148,15 @@
 | Project | Stack |
 |:--------|:------|
 | [🛣️ Highway Accident Alert System](https://github.com/Sanjaisubramani/PROJECT1) | STM32 · HAL · GSM |
-| [🔌 Low Voltage AC Conductor Breakage Detection](https://github.com/SanjaisubramaniPROJECT6) | STM32 · ADC · GSM |
-| [⛏️ Wireless Underground Safety Network](https://github.com/SanjaisubramaniPROJECT13) | STM32 · NRF24L01 · SPI |
-| [🚗 Single-Stage Isolated DC-DC Converter for Universal EV Battery Charging](https://github.com/SanjaisubramaniPROJECT9) | STM32 · IR2110 · PWM |
-| [🔥 IoT-Based Fire Safety System for Firecracker Industries](https://github.com/SanjaisubramaniPROJECT8) | STM32 · ESP32 · ThingSpeak |
-| [🚑 LoRa-Based Ambulance Routing System](https://github.com/SanjaisubramaniPROJECT16) | ESP32 · SX1278 LoRa · GSM |
-| [🌱 Smart Greenhouse Automation System](https://github.com/SanjaisubramaniPROJECT15) | ESP32-CAM · Edge Impulse · L298N |
-| [🛞 Real-Time Embedded Yaw Stability Control for EVs](https://github.com/SanjaisubramaniPROJECT10) | ESP32 · MPU6050 · PID |
-| [🚌 Smart Transit Hub – Bus Arrival Forecasting System](https://github.com/SanjaisubramaniPROJECT12) | ESP32 · GPS · ThingSpeak |
-| [🛣️ AI-Based Road Surface Defect Detection System](https://github.com/SanjaisubramaniPROJECT5) | ESP32-CAM · Edge Impulse · GSM |
+| [🔌 Low Voltage AC Conductor Breakage Detection](https://github.com/Sanjaisubramani/PROJECT6) | STM32 · ADC · GSM |
+| [⛏️ Wireless Underground Safety Network](https://github.com/Sanjaisubramani/PROJECT13) | STM32 · NRF24L01 · SPI |
+| [🚗 Single-Stage Isolated DC-DC Converter for Universal EV Battery Charging](https://github.com/Sanjaisubramani/PROJECT9) | STM32 · IR2110 · PWM |
+| [🔥 IoT-Based Fire Safety System for Firecracker Industries](https://github.com/Sanjaisubramani/PROJECT8) | STM32 · ESP32 · ThingSpeak |
+| [🚑 LoRa-Based Ambulance Routing System](https://github.com/Sanjaisubramani/PROJECT16) | ESP32 · SX1278 LoRa · GSM |
+| [🌱 Smart Greenhouse Automation System](https://github.com/Sanjaisubramani/PROJECT15) | ESP32-CAM · Edge Impulse · L298N |
+| [🛞 Real-Time Embedded Yaw Stability Control for EVs](https://github.com/Sanjaisubramani/PROJECT10) | ESP32 · MPU6050 · PID |
+| [🚌 Smart Transit Hub – Bus Arrival Forecasting System](https://github.com/Sanjaisubramani/PROJECT12) | ESP32 · GPS · ThingSpeak |
+| [🛣️ AI-Based Road Surface Defect Detection System](https://github.com/Sanjaisubramani/PROJECT5) | ESP32-CAM · Edge Impulse · GSM |
 
 </div>
 
